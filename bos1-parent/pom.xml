@@ -15,7 +15,7 @@
 	</modules>
 
 	<properties>
-		<spring.version>4.2.4.RELEASE</spring.version>
+		<spring.version>5.2.2.RELEASE</spring.version>
 		<hibernate.version>5.0.7.Final</hibernate.version>
 		<struts2.version>2.3.24</struts2.version>
 		<slf4j.version>1.6.6</slf4j.version>
